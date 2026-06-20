@@ -140,7 +140,7 @@ Swastya-Wellness-Healthcare/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/swastya-wellness-healthcare.git
+git clone https://github.com/Likhithak309/swastya-wellness-healthcare.git
 cd swastya-wellness-healthcare
 ```
 
